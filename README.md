@@ -34,7 +34,7 @@ This will generate `main.pdf` in the same directory.
 
 # Rust Blockchain
 
-A simple blockchain implementation in Rust, demonstrating core concepts like blocks, proof-of-work, and chain validation. This project is based on the article "Building a Blockchain from Scratch in Rust (Part 1)" by Byte Blog, published on Medium.
+A simple blockchain implementation in Rust, demonstrating core concepts like blocks, proof-of-work, and chain validation.
 
 ## Table of Contents
 - [Overview](#overview)
