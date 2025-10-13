@@ -29,7 +29,6 @@ cd collage_project
 ```
 This will generate `main.pdf` in the same directory.
 
-## Below is a `README.md` file for the Rust blockchain project, tailored for GitHub. It includes a detailed explanation of the Proof-of-Work (PoW) mechanism, as requested, alongside the project overview, structure, setup, usage, and future improvements. The PoW section is expanded to provide a deep understanding of its role, mechanics, and implementation in the project.
 
 ---
 
