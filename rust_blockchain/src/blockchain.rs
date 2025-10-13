@@ -1,5 +1,4 @@
 use crate::block::Block;
-use sha2::{Sha256, Digest};
 use serde::{Serialize, Deserialize};
 use std::fs::File;
 use std::io::{Write, Read};
