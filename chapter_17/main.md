@@ -1,7 +1,6 @@
 # abstract
 
-The phase one is all about building the basic architecture of the system that authenticate user via conection of wired and PCB(personal computer board) there are many security and privacy valnrebilty that we resolving in phase 2 that tolatly working on the server side at server side we working with rust-base proof-of-work blockchain that taotaly capable to handel security, storing, and cryptography that we build zkp(zero knowledge proof).
-this phase are totaly workign REST API that validate all hash-chained blocks, while phase 1 is successfully demonstrating the accessibility and usability of system 
+The phase one is all about building the basic architecture of the system that authenticate user via connection of wired and PCB(personal computer board) there are many security and privacy vulnerability that we resolving in phase 2 that totally working on the server side at server side we working with rust-base proof-of-work blockchain that totally capable to handle security, storing, and cryptography that we build zkp (zero knowledge proof). this phase are totally working REST API that validate all hash-chained blocks, while phase 1 is successfully demonstrating the accessibility and usability of system 
 
 
 ## 17  Phase 2 overview -  ZKP Enhanced Privacy layer 
