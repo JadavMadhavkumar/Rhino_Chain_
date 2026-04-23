@@ -30,4 +30,15 @@ total enrollment            720ms - 2250ms          includes biometric (that on-
 Totale auth                 720ms- 2250ms           proof gen + verification 
 
 
+## 18.4 Advantages of ZKP/zk-SNARK in DMID authentication
+There countless advantages that user can get for just using ZKP/zk-SNARK with DMID Document, the main benefits include:
+1. Privacy preservation: ZKP/zk-SNARK provides a way to commit biomtric data on blockchain without revealing the user biometric data, this ensure user privacy and security on same time.
+2. Security: It is resistant to tampering and replay attacks,it user complex hash function and advanced shielding techniques to safeguard the user biomtric data.
+3. Scalability: ZKP/zk-SNARK is developed in such way that scaling to smallr to larger user base is possible and still maintain the performance and security of system.
+4. Interoperability: ZKP/zk-SNARK can be used with different blockchain platforms so it can be easily accessible to wide range of user.
+
+
+## 18.5 Conclusion 
+
+The ZKP/zk-SNARK are two side if sane coin that put privacy and security at the forefront of DMID auth system.by incorporating ZKP/zk-SNARK into DMID authentication.
 

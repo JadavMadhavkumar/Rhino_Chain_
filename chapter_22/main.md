@@ -18,4 +18,8 @@ whole blockchain system are base on transaction of data one end to other end but
 
 This system are just not diliver results but it's provide more secure system on current stage of system.  Phase 2 blockchain are communicateting with JSON file. every block contains 64 character HDMID Hash, on base64-encoded  ZKP proof and DID Document , here privacy it's just not term but whole system are proved as privacy by design.
 
+## 22.4 comparison with other system 
+
+
+## 22.5 conclusion
 

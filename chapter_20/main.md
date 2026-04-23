@@ -36,5 +36,17 @@ for this phase i creacted 5 node federated learning setup  using flower framewor
 
 <TABALE> 
 
+## 20.4 TyniML and Hardware Integration 
+
+Hardware intigration is most critical part od the project that i added the TinyML model that implemented on small scale on phase 1 and now in the second phase this model is crusal for the liveness detection and also mantain user input and the photocopy of fingerprinHardware intigration is most critical part od the project that i added the TinyML model that implemented on small scale on phase 1 and now in the second phase this model is crusal for the liveness detection and also mantain user input and the photocopy of fingerprint.
+1. Model Deployment :  deployment od the model on the edge device that i use Esp32 microcontroller that have limited resource but it most suitable for this projec1. Model Deployment :  deployment od the model on the edge device that i use Esp32 microcontroller that have limited resource but it most suitable for this project.
+2. Optimization :  this stage is most critical for whole system and base of architecture that i use quantization and pruning techniques of TinyML to optimize the model for improve the inference time and reduce the memory footrpint/size for the edge device.
+3. Integration :  all fucation are intigrate with core system on the hardware level and maintain all peramter for liveness detection.
+4. Testing : after the whole setup and integration i test one live demo for the liveness detection.
+
+## 20.5 Conclusion 
+
+implementing the liveness detection system using ML and TinuML is little time consuming and also require a lot of try and error mothode but after intigration it improve whole security layer.
+
 
 

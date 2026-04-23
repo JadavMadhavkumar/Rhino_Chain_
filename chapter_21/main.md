@@ -27,4 +27,8 @@ the phase 2 are base on whole compliance and GDPR, CCPA and Pravacy on design an
 
 3. storage limitation :  raw biometric data  never be accessible to user or third party and it will never be repicated other vise user cradntial are remove from the system.
 
-:
+## System design and core component
+
+<digram of system design and core component>
+<explanation of system design and core component>
+

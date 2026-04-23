@@ -18,4 +18,13 @@ The Fl simulaton runs all nodes on the singale machine right now so network late
 on the future work making own custom hardware/PCB for whole system that intigrate ESP32-S3 , ATECC608A secure element and all biometric sensor on same borad to make more user friendly and compact for other factor.
 
 
+## 23.2 Limitation and Future work
+
+There will  be many limitation that currently have on this system so in the future it will be more and more better for user, Limitation like working on small scale , cant handle havy load and inpropsnal to load it's require more computing power so latency can be increase on large scale, currently it work on IoT device like ESP32-S3-WROOM-1 so it handle only 8 to 10 node each node carry 10 to 20 user so it still on small scale but currently mobile and desktop have GPU/CPU that can improve the performance and add computing power on user side so backend only handle few node with high efficiency and low latency.
+
+
+## 23.4 Conclusion
+
+In  this project and making whole system the key  important thing is to maintein the security also put the user exprience on center so system not be too much complex and navigate though is hard for user to use and understand. this sysytem is more complex on backend evry frontend part is similar to web2 system with littel bit web3 touch so user can grasp knowlege about advancement on new system. in system level there are many security patches that resole with time so be petient and keep update on both side hardware and software side becuse many hardware are noe allow the patching and vanlable thing so it's challenge for me to make system wider and wider so every user can use it without any type of easiness.
+
 
